@@ -38,8 +38,8 @@
   
 Vragen:
 1.	Welke taal is dit?
-2.	Wat is de output van dit stuk code?
-3.	Wat doet deze code?
-4.	Wat is de input van deze code?
+2.  Wat is de input van deze code?
+3.	Wat is de output van dit stuk code?
+4.	Wat doet deze code eigenlijk?
 5.	Refractor deze code naar een moderne taal.
 
