@@ -1,5 +1,6 @@
 # Question
 
+<code>
   IDENTIFICATION DIVISION.
   PROGRAM-ID. TEST-QUESTION.
   DATA DIVISION.
@@ -33,6 +34,7 @@
           DISPLAY 'FALSE'
           END-IF
   STOP RUN.
+  </code>
   
 Vragen:
 1.	Welke taal is dit?
